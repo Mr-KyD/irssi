@@ -1,3 +1,6 @@
 # -- LOGS FILES --
 irclogs/*
 away.log
+
+# -- GIT IGNORE --
+.gitignore
